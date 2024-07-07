@@ -35,6 +35,7 @@
 }
 .form-field{
     margin-bottom: 1rem;
+    margin-left: 2rem;
 }
 input{
     border: none;
@@ -50,7 +51,7 @@ input{
 .button{
     display: flex;
     justify-content: flex-end;
-    margin: 0 0.8rem 1rem 0 ;
+    margin: 0 2.6rem 1rem 0 ;
 
 }
 .btn{
